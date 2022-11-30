@@ -1,2 +1,2 @@
 #!/bin/bash
-mdkir /tmp/my_first_directory
+mkkir /tmp/my_first_directory
