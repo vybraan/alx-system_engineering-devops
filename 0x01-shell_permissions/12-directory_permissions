@@ -1,3 +1,2 @@
 #!/bin/bash
-touch my_dir
-chmod 751 my_dir
+touch my_dir && chmod 751 my_dir
